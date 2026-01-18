@@ -305,6 +305,7 @@ public class SchoolManagementSystem {
             if (c.getId() == id)
                 return c;
         }
+        System.err.println("Classroom not found.");
         return null;
     }
 }
