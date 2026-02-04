@@ -7,3 +7,5 @@ dist/
 bin/
 .vscode/
 *.txt
+# Allow sharing NBProject NetBeans project metadata
+!NBProject/**
