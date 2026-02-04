@@ -32,9 +32,9 @@ java -cp bin com.college.main.CollegeManagementSystem
 4.  Click "Run".
 
 ### NetBeans
-1.  Go to **File > New Project**.
-2.  Select **Java with Ant** > **Java Project with Existing Sources**.
-3.  Select this folder as the Project Folder.
+1.  Go to **File > Open Project**.
+2.  Select `NBProject` in this repository.
+3.  Run the project (main class is `com.college.main.CollegeManagementSystem`).
 4.  **Troubleshooting**:
     *   If you get a **"Connection timed out"** error, it means NetBeans is trying to download the Java feature.
     *   **Fix**: Go to **Tools > Plugins > Installed** tab. Look for **"Java SE"** or **"Java Application"**. Check the box and click **Activate**.
